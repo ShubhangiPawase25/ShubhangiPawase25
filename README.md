@@ -17,10 +17,10 @@ Hello! I am Shubhangi Pawase, I am passionate E&TC Engineer with special interes
 
 #### Projects📒📒:
 1. **Deep Learning Based Fusion Approach for Hate Speech Detection**
-_Description:_
-  The popularity of social media platforms such as Facebook, Twitter and YouTube, etc. provide channels for internet users to express their opinions and share comments that are visible to all. Some people express aggressive, hateful or threatening speech online arbitrarily. Hate speech is commonly defined as any public speech that expresses disparagement to a person or a group on the basis of some characteristics such as race, colour, ethnicity, gender, sexual orientation, nationality, religion, or other characteristics Compared with manual filtering which is very time consuming, automatic identification of hate speech will enable the platform to detect the hate speech and remove them much more quickly and efficiently.
+   _Description:_
+     The popularity of social media platforms such as Facebook, Twitter and YouTube, etc. provide channels for internet users to express their opinions and share comments that are visible to all. Some people express aggressive, hateful or threatening speech online arbitrarily. Hate speech is commonly defined as any public speech that expresses disparagement to a person or a group on the basis of some characteristics such as race, colour, ethnicity, gender, sexual orientation, nationality, religion, or other characteristics Compared with manual filtering which is very time consuming, automatic identification of hate speech will enable the platform to detect the hate speech and remove them much more quickly and efficiently.
 
-2. **Arduino based wireless notice board using Bluetooth module**
+3. **Arduino based wireless notice board using Bluetooth module**
 
 #### Skills🧩🧩:
 - C
