@@ -38,6 +38,9 @@ Hello! I am Shubhangi Pawase, I am passionate E&TC Engineer with special interes
 - AWS
 - GCP Associate Cloud Engineer
 - Terraform
+- Linux Administration
+- Windows Administration
+- Shell Scripting
 - Python
 - Prompt Engineering
 
