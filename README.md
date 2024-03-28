@@ -12,8 +12,10 @@ Hello! I am Shubhangi Pawase, I am passionate E&TC Engineer with special interes
 #### Education🧑‍🎓🧑‍🎓:
 - **B.E Electronics and Telecommunication Engineering**
   Amrutvahini College of Engineering, Sangamner
+  
   CGPA: 8.84/10
-  Passout: 2023
+  
+  YOS: 2023
 
 #### Projects📒📒:
 1. **Deep Learning Based Fusion Approach for Hate Speech Detection**
